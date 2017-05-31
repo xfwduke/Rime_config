@@ -1,0 +1,8 @@
+patch:
+    "style/font_point": 17
+    "app_options/com.citrix.XenAppViewer/ascii_mode": true
+    "app_options/com.runningwithcrayons.Alfred-3/ascii_mode": true
+    "app_options/com.jetbrains.pycharm/ascii_mode": true
+    "app_options/com.sublimetext.3/ascii_mode": true
+    "app_options/com.apple.Safari/ascii_mode": true
+    "app_options/com.google.Chrome/ascii_mode": true
